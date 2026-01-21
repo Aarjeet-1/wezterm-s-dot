@@ -9,7 +9,6 @@ config = {
 	window_decorations = "NONE",
 	hide_tab_bar_if_only_one_tab = false,
 
-	-- font = wezterm.font("Monospace"),
 
 	window_padding = {
 		left = 0,
